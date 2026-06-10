@@ -57,7 +57,7 @@ export function HeroSection() {
       <div className="relative w-full h-[400px] lg:h-[550px] flex justify-center lg:justify-end pr-0 lg:pr-6 mt-4 lg:mt-0 z-10">
         <div className="relative w-full max-w-[400px] lg:max-w-[480px] h-full flex items-start justify-center">
           <img
-            src="https://100xdevs.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-img.3fed4f92.png&w=1080&q=75"
+            src="https://100xdevs.com/_next/static/media/hero-img.0lkpx6ydr46nw.png"
             alt="Harkirat Singh"
             className="w-full h-auto object-contain z-10 scale-[1.05] md:scale-[1.1] lg:scale-[1.15] origin-top"
           />
